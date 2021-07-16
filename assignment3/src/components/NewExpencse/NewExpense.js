@@ -1,8 +1,7 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 import './NewExpense.scss'
 import ExpenseForm from "./ExpenseForm";
-import AddNewExpense from "../../../../assignment4/src/components/NewExpencse/AddNewExpense";
 
 const NewExpense = (props) => {
 
